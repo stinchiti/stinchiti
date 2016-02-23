@@ -1,1 +1,1 @@
-<?php echo "Il silenzio è oro";
+<?php echo "Tu sei tutta la mia vita";
