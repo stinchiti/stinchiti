@@ -1,7 +1,7 @@
 <?php
  
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://raw.githubusercontent.com/stinchiti/stinchiti/master/execute.php';
+$WEBHOOK_URL = 'https://bot-stinchiti.rhcloud.com/execute.php';
 $BOT_TOKEN = '198211961:AAEBGl4K0RDou14vYXVtsukdtRFRTlZi5QA';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
