@@ -1,5 +1,5 @@
 <?php
-
+ 
 // PARAMETRI DA MODIFICARE
 $WEBHOOK_URL = 'https://raw.githubusercontent.com/stinchiti/stinchiti/master/execute.php';
 $BOT_TOKEN = '198211961:AAEBGl4K0RDou14vYXVtsukdtRFRTlZi5QA';
